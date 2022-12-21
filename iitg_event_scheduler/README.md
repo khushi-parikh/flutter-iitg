@@ -1,6 +1,6 @@
 # iitg_event_scheduler
 
-A new Flutter project.
+A new Flutter project. For task 2 of the flutter series of IITG.
 
 ## Getting Started
 
